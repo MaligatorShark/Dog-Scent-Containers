@@ -1,6 +1,6 @@
-# Dog Scent Containers
+# Dog Scent Container
 
-Designed for training your K9 in scent detection, these small 3D-printed containers are perfect for honing your dog's skills.  
+## Designed for training your K9 in scent detection, these small 3D-printed containers are perfect for honing your dog's skills.  
 
 > **Note:** These containers are compact, so ensure your dog is trained to detect without running off with them.
 
