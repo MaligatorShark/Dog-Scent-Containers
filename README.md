@@ -21,3 +21,6 @@ Designed for training your K9 in scent detection, these small 3D-printed contain
   - Brim enabled
 
 Enjoy training your K9 with these custom scent containers!
+
+Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+You may print and share this for personal use with attribution, but not sell it. See LICENSE for details.
